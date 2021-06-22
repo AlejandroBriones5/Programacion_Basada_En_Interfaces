@@ -1,0 +1,7 @@
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.exe.config
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.exe
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.pdb
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.csprojAssemblyReference.cache
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.exe
+C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto Programacion_Basada_En_Interfaces\Interfaces_Java\Programacion_Basada_En_Interfaces\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.pdb
